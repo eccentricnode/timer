@@ -1,5 +1,7 @@
 {
-  "name": "blank",
-  "integrations": {},
+  "name": "Resterr",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
